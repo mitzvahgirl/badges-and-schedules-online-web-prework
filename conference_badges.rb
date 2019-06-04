@@ -7,3 +7,5 @@ def batch_badge_creator(arr)
   ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz" ]
   
 def assign_rooms(arr) 
+  
+  "Hello, #{name}! You'll be assigned to room {}!"
