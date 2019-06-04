@@ -11,4 +11,6 @@ def assign_rooms(arr)
   "Hello, #{name}! You'll be assigned to room {counter}!"
   
   def printer 
+    batch_badge_creator
+    
     
